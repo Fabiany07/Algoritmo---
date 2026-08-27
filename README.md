@@ -11,10 +11,10 @@ Repositório criado para armazenar atividades e exercícios desenvolvidos durant
 - Exercícios prático
  Entre outros assuntos
 
-## 💻 Linguagem
+## Linguagem
 
 - Java
 
-## 🎓 Objetivo
+## Objetivo
 
 Registrar minha evolução nos estudos de programação e manter organizadas as atividades desenvolvidas durante a graduação.
