@@ -9,6 +9,7 @@ Repositório criado para armazenar atividades e exercícios desenvolvidos durant
 - Estruturas condicionais
 - Estruturas de repetição
 - Exercícios prático
+  
  Entre outros assuntos
 
 ## Linguagem
