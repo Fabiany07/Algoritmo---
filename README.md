@@ -2,7 +2,7 @@
 
 Repositório criado para armazenar atividades e exercícios desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas (ADS).
 
-## 📚 Conteúdos
+##  Conteúdos
 
 - Lógica de programação
 - Algoritmos
